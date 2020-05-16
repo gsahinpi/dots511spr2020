@@ -1,0 +1,7 @@
+1)Example: Inferring behaviour from text-message data
+https://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC2.ipynb
+Apply the example to yourself following the outline we have done in class.
+
+2)What is the difference between  trace_4_3 = pm.sample(1000, tune=3000) and 
+prior = pm.sample_prior_predictive(5000) 
+pm_sample-posterior_predictive
